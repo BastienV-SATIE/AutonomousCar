@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/BastienV-SATIE/AutonomousCar/main/AutonomousPlateforme.jpg)
+![](https://raw.githubusercontent.com/BastienV-SATIE/AutonomousCar/main/AutonomousPlateforme_small.jpg)
 
 # AutonomousCar
 
